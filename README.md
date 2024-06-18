@@ -5,7 +5,7 @@
 - 💬 Ask me about web development, collaborative whiteboard, virtual keyboard...
 
 ### 🔥 My Stats:
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phillipngn)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=chowchow-dev)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
 **phillip2k/phillip2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
