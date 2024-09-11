@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-- 🔭 I’m currently working on [MathGPT](https://www.mathgpt.ai/).
 - 🌱 I’m currently learning backend and system design.
 - 💬 Ask me about web development, collaborative whiteboard, virtual keyboard...
 
@@ -11,7 +9,7 @@
 
 Here are some ideas to get you started:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=phillipngn&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chowchow-dev&theme=dark&background=000000)](https://git.io/streak-stats)
 -->
 
   
