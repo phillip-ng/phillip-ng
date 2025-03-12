@@ -3,7 +3,7 @@
 - 💬 Ask me about web development, frontend in depth...
 
 ### 🔥 My Stats:
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=chowchow-dev)](https://github.com/LordDashMe/github-contribution-stats/)
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=phillip-ng)](https://github.com/LordDashMe/github-contribution-stats/)
 <!--
 **phillip-ng/phillip-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
